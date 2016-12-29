@@ -39,3 +39,5 @@ Then, run through the WP install as you normally would by visiting the domain se
 # Updates #
 
 When changes are made to the composer.json file, run the ```$ composer update``` command to pull in the new dependencies.
+
+[Credit to Studio 24 for their multi-environment config.](https://github.com/studio24/wordpress-multi-env-config)
