@@ -28,7 +28,7 @@ Open the public/wp-config.env.php file and replace the example urls with the liv
 
 ## wp-config.example.php ##
 
-Duplicate the public/wp-config.example.php file and name it wp-config.local.php with your local environment database settings. You will also need a wp-config.development.php and wp-config.production.php file for their respective servers.
+Duplicate the public/wp-config.example.php file and name it wp-config.local.php with your local environment database settings. You will also need a wp-config.development.php and wp-config.production.php file for their respective servers. Change WP_DEBUG to true for any local or development environments.
 
 ## And away we go ##
 

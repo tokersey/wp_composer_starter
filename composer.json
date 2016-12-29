@@ -39,11 +39,11 @@
     ],
     "require": {
         "wordpress": "4.*",
-        "fancyguy/webroot-installer": "1.0.0",
+        "fancyguy/webroot-installer": "^1.0.0",
         "advanced-custom-fields/advanced-custom-fields-pro": "*",
-        "wpackagist-plugin/timber-library": "1.1.10",
-        "wpackagist-plugin/simple-page-ordering": "2.2.4",
-        "wpackagist-plugin/tinymce-advanced":"4.2.5"
+        "wpackagist-plugin/timber-library": "^1.1.10",
+        "wpackagist-plugin/simple-page-ordering": "^2.2.4",
+        "wpackagist-plugin/tinymce-advanced":"^4.2.5"
     },
     "extra": {
         "webroot-dir": "public/wp",
