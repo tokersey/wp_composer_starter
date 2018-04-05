@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Setup environments
